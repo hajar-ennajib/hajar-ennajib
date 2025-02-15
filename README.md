@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm HAJAR! 👋  
 
-<!--
-**hajar-ennajib/hajar-ennajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate about coding, problem-solving, and building cool things**  
+🎓 University student, **specializes in Application Development Engineering**   
+💡 Always exploring new technologies and improving my skills  
 
-Here are some ideas to get you started:
+### 📌 Interests  
+💻 **Full-Stack Web Development** </br>
+🎮 **Game Development** </br>
+📊 **Software Engineering**  </br>
+🔍 **Exploring new frameworks & architectures**  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Connect with Me  
+- 📫 Email: hajaren516@gmail.com 
+- 💼 LinkedIn: Hajar En -najib
+---
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajar-ennajib&count_private=true&show_icons=true&theme=radical)

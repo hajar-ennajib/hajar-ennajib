@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajar-ennajib&count_private=true&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hajar-ennajib&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hajar-ennajib&theme=dark&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hajar-ennajib&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---

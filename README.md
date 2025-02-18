@@ -12,7 +12,7 @@
 
 ### 🌍 Connect with Me  
 - 📫 Email: hajaren516@gmail.com 
-- 💼 LinkedIn: Hajar En -najib
+- 💼 LinkedIn: [Hajar En -najib](https://www.linkedin.com/in/hajar-en-najib-8b6485298/)
 ---
 
 

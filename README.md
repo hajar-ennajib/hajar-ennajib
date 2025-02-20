@@ -1,7 +1,7 @@
 ### Hi, I'm HAJAR! 👋  
 
 🚀 **Passionate about coding, problem-solving, and building cool things**  
-🎓 University student, **specializes in Application Development Engineering**   
+🎓 University student, **specializes in Application Development Engineering**  
 💡 Always exploring new technologies and improving my skills  
 
 ### 📌 Interests  

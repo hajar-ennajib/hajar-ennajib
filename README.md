@@ -6,7 +6,6 @@
 
 ### 📌 Interests  
 💻 **Full-Stack Web Development** </br>
-🎮 **Game Development** </br>
 📊 **Software Engineering**  </br>
 🔍 **Exploring new frameworks & architectures**  </br>
 
